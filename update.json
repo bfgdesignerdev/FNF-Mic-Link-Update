@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "app": "FNF Mic Link",
+  "package": "com.fnfmiclink.psych",
+  "version": "1.1.6",
+  "versionCode": 11,
+  "date": "2026-11-03",
+  "apk": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/download/v1.1.6/FNF-Mic-Link-1.1.6.apk",
+  "mirrors": [],
+  "size": 91979942,
+  "sha256": "0369840f7fbb35df4cba0c7cb04b1cebab48518b06a509d94148822b690677cd",
+  "page": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/tag/v1.1.6",
+  "releases": [
+    {
+      "version": "1.1.6",
+      "versionCode": 11,
+      "date": "2026-11-03",
+      "title": "In-game updates",
+      "notes": [
+        "A red icon in the main menu now shows when a new version is out",
+        "Tap it to see what's new and update the game in one tap",
+        "Downloads continue after a lost connection and are checked before installing",
+        "Tap the version text in the main menu to see what's new"
+      ]
+    },
+    {
+      "version": "1.1.5",
+      "versionCode": 10,
+      "date": "2026-11-03",
+      "title": "New app ID",
+      "notes": [
+        "The app ID is now com.fnfmiclink.psych",
+        "It installs next to older builds: remove the old app after installing",
+        "Settings start fresh, your mods are kept"
+      ]
+    },
+    {
+      "version": "1.1.4",
+      "versionCode": 9,
+      "date": "2026-11-03",
+      "title": "New game folder",
+      "notes": [
+        "The game folder is now \"FNF Mic Link Psych\"",
+        "Your mods and received songs are moved there automatically"
+      ]
+    },
+    {
+      "version": "1.1.3",
+      "versionCode": 8,
+      "date": "2026-11-03",
+      "title": "New name",
+      "notes": [
+        "The app is now called FNF Mic Link"
+      ]
+    },
+    {
+      "version": "1.1.2",
+      "versionCode": 7,
+      "date": "2026-11-03",
+      "title": "New title screen",
+      "notes": [
+        "Mic Link title screen with an HD logo and a new background",
+        "Official Telegram channel button in the ONLINE menu"
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "versionCode": 6,
+      "date": "2026-11-03",
+      "title": "Online on weak networks",
+      "notes": [
+        "Online works on limited networks that freeze after 16 KB",
+        "Shorter connections and smarter song sending"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "versionCode": 5,
+      "date": "2026-11-02",
+      "title": "Serverless online",
+      "notes": [
+        "Online without our own server: public servers + Wi-Fi direct",
+        "Songs are sent to the other players automatically",
+        "Network test in the ONLINE menu"
+      ]
+    }
+  ]
+}
