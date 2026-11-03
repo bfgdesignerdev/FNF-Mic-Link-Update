@@ -2,15 +2,30 @@
   "format": 1,
   "app": "FNF Mic Link",
   "package": "com.fnfmiclink.psych",
-  "version": "1.1.7",
-  "versionCode": 12,
+  "version": "1.1.8",
+  "versionCode": 13,
   "date": "2026-11-03",
-  "apk": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/download/v1.1.7/FNF-Mic-Link-1.1.7.apk",
+  "apk": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/download/v1.1.8/FNF-Mic-Link-1.1.8.apk",
   "mirrors": [],
-  "size": 92649490,
-  "sha256": "7169ef2299cb33f81a40784c69352caf026c7d134400816a24ac237cb8133990",
-  "page": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/tag/v1.1.7",
+  "size": 92706834,
+  "sha256": "112ac791af96ffc716e60a43f0a239875fb2bc4cc479125549c96d262cd21182",
+  "page": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/tag/v1.1.8",
   "releases": [
+    {
+      "version": "1.1.8",
+      "versionCode": 13,
+      "date": "2026-11-03",
+      "title": "Real opponent play and fair wins",
+      "notes": [
+        "Online: you now see how the other player really plays their side - their presses, hits, misses and holds (no more bot playing for them)",
+        "Their ratings and misses pop up over their arrows, and their voice cuts out when they miss",
+        "The health bar is now a tug of war: your hits pull it to your side, their hits pull it back",
+        "Fair winner: better accuracy wins (then fewer misses), even if one side of the song has more notes",
+        "The results screen shows why you won or lost",
+        "Faster and more reliable online messages between players",
+        "Both players need 1.1.8 to play online together"
+      ]
+    },
     {
       "version": "1.1.7",
       "versionCode": 12,
