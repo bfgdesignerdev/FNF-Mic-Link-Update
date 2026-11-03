@@ -2,15 +2,27 @@
   "format": 1,
   "app": "FNF Mic Link",
   "package": "com.fnfmiclink.psych",
-  "version": "1.1.6",
-  "versionCode": 11,
+  "version": "1.1.7",
+  "versionCode": 12,
   "date": "2026-11-03",
-  "apk": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/download/v1.1.6/FNF-Mic-Link-1.1.6.apk",
+  "apk": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/download/v1.1.7/FNF-Mic-Link-1.1.7.apk",
   "mirrors": [],
-  "size": 91979942,
-  "sha256": "0369840f7fbb35df4cba0c7cb04b1cebab48518b06a509d94148822b690677cd",
-  "page": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/tag/v1.1.6",
+  "size": 92649490,
+  "sha256": "7169ef2299cb33f81a40784c69352caf026c7d134400816a24ac237cb8133990",
+  "page": "https://github.com/bfgdesignerdev/FNF-Mic-Link-Update/releases/tag/v1.1.7",
   "releases": [
+    {
+      "version": "1.1.7",
+      "versionCode": 12,
+      "date": "2026-11-03",
+      "title": "New icon and title fix",
+      "notes": [
+        "The title screen logo is no longer cut off at the top left (wide phones, mods)",
+        "New FNF Mic Link app icon",
+        "Game folder messages fixed, the old folder is now moved completely",
+        "Credits: FNF Mic Link, creator of the online mode (Telegram channel)"
+      ]
+    },
     {
       "version": "1.1.6",
       "versionCode": 11,
